@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @euchaliptus
 - 👀 I’m interested in Science, Geopolitics & Technology
 - 🌱 I’m currently learning Python, PHP, Data Analytics, AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> text me
+- 📫 How to reach me -> igor.kovinski@protonmail.com
 
 <!---
 euchaliptus/euchaliptus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
